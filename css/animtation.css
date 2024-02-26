@@ -1,0 +1,81 @@
+@keyframes name {
+    0% {
+        width: 0;
+    }
+
+    15% {
+        width: 440px;
+    }
+
+    18% {
+        width: 440px;
+    }
+
+    30% {
+        width: 0;
+    }
+
+    75% {
+        width: 0;
+    }
+
+    100% {
+        width: 0;
+    }
+}
+
+@keyframes developer {
+    0% {
+        width: 0;
+    }
+
+    31% {
+        width: 0;
+    }
+
+    45% {
+        width: 440px;
+    }
+
+    48% {
+        width: 440px;
+    }
+
+    61% {
+        width: 0;
+    }
+
+    100% {
+        width: 0;
+    }
+}
+
+@keyframes designer {
+    0% {
+        width: 0;
+    }
+
+    25% {
+        width: 0;
+    }
+
+    62% {
+        width: 0;
+    }
+
+    77% {
+        width: 440px;
+    }
+
+    80% {
+        width: 440px;
+    }
+
+    97% {
+        width: 0;
+    }
+
+    100% {
+        width: 0;
+    }
+}

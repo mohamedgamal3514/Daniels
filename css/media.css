@@ -1,0 +1,25 @@
+/* ----------large secreen---------- */
+@media (min-width: 992px) {
+    #hero .nav-link {
+        color: var(--white-color);
+    }
+
+    #hero .navbar-nav {
+        background-color: transparent !important;
+    }
+
+    #hero .hero_content h1 {
+        font-size: 4rem;
+    }
+
+    #hero .navbar-nav .nav-link.active::after {
+        width: 80%;
+
+    }
+
+    #hero h1 span {
+
+        margin-bottom: -16px;
+    }
+
+}
